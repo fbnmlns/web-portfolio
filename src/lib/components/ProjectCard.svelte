@@ -9,7 +9,7 @@
 	<div class="max-w-sm rounded-lg overflow-hidden shadow-lg group-hover:scale-110 project-card">
 		<a class="" href={githubRepositoryLink} target="_blank">
 			<img class="h-56 w-96" src={imageSource} alt="" />
-			<div class="px-6 py-4 h-56">
+			<div class="px-6 py-4 h-32">
 				<div class="font-bold text-xl mb-2">{title}</div>
 				<p class="font-light text-base">
 					{description}
