@@ -1,0 +1,17 @@
+::-moz-selection {
+  color: #181e27;
+  background: #eee0d4;
+}
+
+::selection {
+  color: #181e27;
+  background: #eee0d4;
+}
+
+.bg-primary {
+  background-color: #181e27;
+}
+
+.bg-gradient {
+  background: linear-gradient(to right, #ff6b6b, #ffda77, #80ffdb, #94bfff, #eaa8ff);
+}
