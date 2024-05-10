@@ -101,7 +101,7 @@
 			<ProjectCard
 				title="Management system for MOKA"
 				description="Allows the veterinary staff book appointments, make reservations, maintain medical records for each patient and rate patients upon checkout."
-				githubRepositoryLink="https://github.com/fbnmlns/proyecto-moka"
+				githubRepositoryLink="https://github.com/fbnmlns/moka-veterinary"
 				imageSource={veterinaryProject}
 			>
 				{#each mokaStack as tech}
