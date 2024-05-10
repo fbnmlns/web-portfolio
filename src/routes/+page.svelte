@@ -2,7 +2,7 @@
 	import '../scss/global.scss';
 
 	import bloomProject from '$lib/assets/images/bloom_project.avif';
-	import echowaveProject from '$lib/assets/images/echowave_demo.gif';
+	import echowaveProject from '$lib/assets/images/echowave_project.avif';
 	import veterinaryProject from '$lib/assets/images/veterinary_project.avif';
 
 	import { sendEmail } from '$lib/emails/emailSender';
