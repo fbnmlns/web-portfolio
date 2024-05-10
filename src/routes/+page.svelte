@@ -2,7 +2,7 @@
 	import '../scss/global.scss';
 
 	import bloomProject from '$lib/assets/images/bloom_project.avif';
-	import echowaveProject from '$lib/assets/images/echowave_demo.gif';
+	import echowaveProject from '$lib/assets/images/echowave_project.avif';
 	import veterinaryProject from '$lib/assets/images/veterinary_project.avif';
 
 	import { sendEmail } from '$lib/emails/emailSender';
@@ -101,7 +101,7 @@
 			<ProjectCard
 				title="Management system for MOKA"
 				description="Allows the veterinary staff book appointments, make reservations, maintain medical records for each patient and rate patients upon checkout."
-				githubRepositoryLink="https://github.com/fbnmlns/proyecto-moka"
+				githubRepositoryLink="https://github.com/fbnmlns/moka-veterinary"
 				imageSource={veterinaryProject}
 			>
 				{#each mokaStack as tech}
